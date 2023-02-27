@@ -1,7 +1,7 @@
 # Initiative: insert Title
 ## Description
 ## Epics
-* [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
-* Epic 2
+* [Google Analytics](/templates/theme/initiatives/epics/GoogleAnalytics.md)
+* [On-Page SEO Implementation](/templates/theme/initiatives/epics/SEO_EPIC.md)
 ## Test plan
 How will this be tested?
