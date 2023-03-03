@@ -60,25 +60,25 @@ The risks of this initiative include:
 -   Failure to meet project deadlines due to unforeseen circumstances or technical difficulties
 
 ## Epics
-* [Google Analytics](/templates/theme/initiatives/epics/GoogleAnalytics.md)
-* [On-Page SEO Implementation](/templates/theme/initiatives/epics/SEO_EPIC.md)
+* [Google Analytics](/documentation/templates/theme/initiatives/epics/GoogleAnalytics.md)
+* [On-Page SEO Implementation](/documentation/templates/theme/initiatives/epics/SEO_EPIC.md)
 ## Test plan
-### W3C Validator
+# W3C Validator
 
 The W3C Validator will be used to check the web page for compliance with web standards, including HTML and CSS validation.
 
-### Lighthouse
+# Lighthouse
 
 Lighthouse will be used to audit the web page for performance, accessibility, and best practices, and to generate a report with recommendations for improvements.
 
-### GDPR Scanner
+# GDPR Scanner
 
 GDPR Scanner will be used to scan the web page for compliance with GDPR and other privacy regulations, including cookie consent, privacy policy, and data collection practices.
 
-### Playwright Test
+# Playwright Test
 
 Playwright Test will be used to automate testing of the web page to ensure functional and regression testing, including compliance testing.
 
-### Manual Testing
+# Manual Testing
 
 Manual testing will be used to validate and test the web page design, content, functionality, and user experience. This will include testing for responsiveness, browser compatibility, navigation, forms, and other interactive element
