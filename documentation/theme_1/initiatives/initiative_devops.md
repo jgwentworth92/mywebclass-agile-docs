@@ -8,8 +8,8 @@ The goal of this initiative is to implement a DevOps process for continuous inte
 ## Epics
 
 1.  [Implement Version Control](/documentation/templates/theme/initiatives/epics/ImplementVersionControl.md)
-2.  [Configure Continuous Integration](/documentation/templates/theme/initiatives/epics/stories/ContinuousIntegration.md)
-3.  [Automated Testing and Deployment](/documentation/templates/theme/initiatives/epics/stories/AutomatedTestingandDeployment.md)
+2.  [Configure Continuous Integration](/documentation/templates/theme/initiatives/epics/ContinuousIntegration.md)
+3.  [Automated Testing and Deployment](/documentation/templates/theme/initiatives/epics/AutomatedTestingandDeployment.md)
 
 ## Acceptance Criteria
 
