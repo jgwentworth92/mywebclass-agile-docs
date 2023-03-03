@@ -1,9 +1,9 @@
 # Theme 1.0: Project Setup
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+-   Design and development of a basic web page with appropriate content and structure
+-   Implementation of on-page SEO best practices to improve search engine visibility and ranking
+-   Integration of Google Analytics tracking code to monitor and analyze user behavior and website performance
+-   Testing and quality assurance to ensure the web page meets user needs and business requirements
 ## Initiative(s)
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
@@ -15,4 +15,18 @@ us up for long-term success.
   * Project metrics to continuously improve the management of the project
 
 ## Test plan
-How will this be tested?
+### Lighthouse
+
+Lighthouse will be used to audit the web page for performance, accessibility, and best practices, and to generate a report with recommendations for improvements.
+
+### GDPR Scanner
+
+GDPR Scanner will be used to scan the web page for compliance with GDPR and other privacy regulations, including cookie consent, privacy policy, and data collection practices.
+
+### Playwright Test
+
+Playwright Test will be used to automate testing of the web page to ensure functional and regression testing, including compliance testing.
+
+### Manual Testing
+
+Manual testing will be used to validate and test the web page design, content, functionality, and user experience. This will include testing for responsiveness, browser compatibility, navigation, forms, and other interactive element
