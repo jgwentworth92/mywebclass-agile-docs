@@ -13,6 +13,6 @@ Automated testing and deployment are critical components of modern software deve
 ## User Stories
 1. [Automated Testing Framework Implementation](/documentation/templates/theme/initiatives/epics/stories/AutomatedTestingFrameworkImplementation.md)
 2. [Automated Deployment Implementation](/documentation/templates/theme/initiatives/epics/stories/AutomatedDeploymentImplementation.md)
-3. [Automated Testing and Deployment Integration](/documentation/templates/theme/initiatives/epics/stories/stories/AutomatedTestingandDeploymentIntegration.md)
+3. [Automated Testing and Deployment Integration](/documentation/templates/theme/initiatives/epics/stories/AutomatedTestingandDeploymentIntegration.md)
 
 
