@@ -1,15 +1,5 @@
-Task Title: [Automated Testing of Cookies]
+## Playwright Testing Task
 
-User Story: [Cooke Banners]
+### Description
 
-Description: [Objective: To create automated tests using playwright for the cookie banner or pop-up on the website, to ensure that it is displayed correctly and that the user consent options are working as expected.]
-
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
-
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
-
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
-
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
-
-Notes: [Include]
+The Playwright testing task involves using the Playwright automation framework to write and run automated tests for our web application. The purpose of this task is to improve the quality and reliability of our application by automating common testing scenarios and ensuring that new code changes do not break existing functionality.

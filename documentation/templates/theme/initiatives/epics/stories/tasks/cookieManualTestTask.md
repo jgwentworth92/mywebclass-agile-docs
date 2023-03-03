@@ -1,15 +1,7 @@
-Task Title: [Manual Testing of Cookies]
 
-User Story: [Cooke Banners]
+## Manual Review Testing Task
 
-Description: [Objective: Create Manual testing framework check site to verify its use of cookies is compliant with GDPR.]
+### Description
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+The manual review testing task involves manually reviewing our web application to identify and report any issues or bugs. The purpose of this task is to complement automated testing by providing a human perspective on the application's functionality, usability, and user experience. The task will be used in conjunction with specific user stories to ensure that identified bugs are in relation to the user story being tested.
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
-
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
-
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
-
-Notes: [Include]
