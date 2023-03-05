@@ -1,46 +1,32 @@
 
-# Epic: On-Page SEO Implementation
+## Epic: Integrate Google Analytics to Measure User Behavior
 
-## Introduction
+The purpose of this epic is to integrate Google Analytics into the website to measure user behavior and gain insights into website performance and user engagement.
 
- As A Web Devloper, I want to implement Google Analytics on my website to track user data accurately. However, I must ensure that I am GDPR compliant before using Google Analytics to avoid violating any privacy laws.
-### Acceptance Criteria:
-- The website must have a cookie banner or pop-up that explains what data is being collected and how it will be used. Users must have the option to give or withhold their consent 
+### User Stories
 
-## User Stories
-1. [Meta Tags](/documentation/templates/theme/initiatives/epics/stories/relavantKeyword.md)
-2. [SEO with Optimized Headings](/documentation/templates/theme/initiatives/epics/stories/ProperHeading.md)
-3. [Improve SEO with Relevant Page Titles](/documentation/templates/theme/initiatives/epics/stories/stories/ProperTitle.md)
-4. [OpenGraph Meta Tags](/documentation/templates/theme/initiatives/epics/stories/OpenGraph.md).
-
-## Testing Requirements:
-- Automated Playwright test to verify cookie banner is present on site.
-- Manually review site to verify banner is present on site.
+-  [Set up Google Analytics on the Website](/documentation/templates/theme/initiatives/epics/stories/setupGoogleAnalytics.md)
+-  [Define Key Performance Indicators (KPIs) to Measure Website Performance](/documentation/templates/theme/initiatives/epics/stories/performanceindicator.md)
+-  [Configure Google Analytics to Track KPIs and User Behavior](/documentation/templates/theme/initiatives/epics/stories/setupGoogleAnalytics.md)
 
 
+### Acceptance Criteria
 
+-   Google Analytics is set up and integrated into the website.
+-   Key Performance Indicators (KPIs) are defined to measure website performance.
+-   Google Analytics is configured to track KPIs and user behavior.
+-   Data from Google Analytics is analyzed and used to improve website performance and user engagement.
 
+### Tasks
 
+-   Set up Google Analytics on the website.
+-   Define key performance indicators (KPIs) to measure website performance.
+-   Configure Google Analytics to track KPIs and user behavior.
+-   Test the Google Analytics implementation to ensure it is working properly.
+-   Analyze Google Analytics data to gain insights into website performance and user engagement.
+-   Use the insights gained from Google Analytics to improve website performance and user engagement.
 
-"Google Analytics Epic"
+### Test Requirements
 
-Description: [ I want to implement Google Analytics on my website to track user data accurately. However, I must ensure that I am GDPR compliant before using Google Analytics to avoid violating any privacy laws.]
-
-User Stories: [1.Cookie Banner: The website must have a cookie banner or pop-up that explains what data is being collected and how it will be used. Users must have the option to give or withhold their consent.
-        2.Anonymized IP addresses: Google Analytics must be configured to anonymize IP addresses to protect user privacy.]
-
-
-Dependencies: [List any dependencies that may impact the epic]
-
-Risks: [List the potential risks and mitigation strategies]
-
-Estimated Effort: [8]
-
-Business Value: [Specify the business value that will be delivered by the epic]
-
-Priority: [Assign a priority to the epic]
-
-# List stories related to this theme
-1. [Cooke Banners](documentation/templates/theme/initiatives/epics/stories/cookiebanner.md)
-2. [Anonymized IP Addresses for Google Analytics](documentation/templates/theme/initiatives/epics/stories/story_template.md)
-
+-   Manual testing of the Google Analytics implementation to ensure it is working properly.
+-   Automated testing using tools such as Lighthouse to ensure compliance with website privacy and security best practices.
