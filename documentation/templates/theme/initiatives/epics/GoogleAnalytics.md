@@ -10,12 +10,14 @@ The purpose of this epic is to integrate Google Analytics into the website to me
 -  [Configure Google Analytics to Track KPIs and User Behavior](/documentation/templates/theme/initiatives/epics/stories/setupGoogleAnalytics.md)
 
 
+
 ### Acceptance Criteria
 
 -   Google Analytics is set up and integrated into the website.
 -   Key Performance Indicators (KPIs) are defined to measure website performance.
 -   Google Analytics is configured to track KPIs and user behavior.
 -   Data from Google Analytics is analyzed and used to improve website performance and user engagement.
+
 
 ### Tasks
 

@@ -4,9 +4,11 @@ The purpose of this initiative is to ensure that MyWebClass is compliant with pr
 
 ## Epics
 
-1.  [Make MyWebClass GDPR Compliant](/documentation/templates/theme/initiatives/epics/GDPRCompliant.md)
-2.  [Configure Continuous Integration](/documentation/templates/theme/initiatives/epics/ContinuousIntegration.md)
-3.  [Automated Testing and Deployment](/documentation/templates/theme/initiatives/epics/AutomatedTestingandDeployment.md)
+-  [Make MyWebClass GDPR Compliant](/documentation/templates/theme/initiatives/epics/GDPRCompliant.md)
+-  [Make MyWebClass Coppa Compliant](/documentation/templates/theme/initiatives/epics/coppa_epic.md)
+-  [Google Analytics Integration](/documentation/templates/theme/initiatives/epics/GoogleAnalytics.md)
+
+
 
 ## Acceptance Criteria
 - The implementation of Google Analytics on the website is compliant with user consent requirements.

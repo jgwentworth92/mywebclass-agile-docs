@@ -9,6 +9,7 @@
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
 * [DevOps Initiative.](initiatives/initiative_devops.md)
 * [ Web Page Template Initiative](initiatives/initiative_basic_webpage_template.md)
+* [ Legal Initiative](initiatives/legal_initiative.md)
 
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members

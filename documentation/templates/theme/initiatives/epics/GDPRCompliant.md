@@ -12,6 +12,7 @@ The purpose of this epic is to ensure that MyWebClass is compliant with the Gene
 ## User Stories
 1. [Privacy Policy for GDPR Compliance](/documentation/templates/theme/initiatives/epics/stories/PrivacyPolicyforGDPRCompliance.md)
 2. [Cookie Banner](/documentation/templates/theme/initiatives/epics/stories/cookiebanner.md)
+   
 
 
 ## Testing Requirements:
