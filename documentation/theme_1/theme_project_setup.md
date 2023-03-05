@@ -3,6 +3,8 @@
 -   Design and development of a basic web page with appropriate content and structure
 -   Implementation of on-page SEO best practices to improve search engine visibility and ranking
 -   Integration of Google Analytics tracking code to monitor and analyze user behavior and website performance
+-   Legal Compliance with COPPA and GDPR for the website
+-   DevOPs integration 
 -   Testing and quality assurance to ensure the web page meets user needs and business requirements
 ## Initiative(s)
 
@@ -10,10 +12,6 @@
 * [DevOps Initiative.](initiatives/initiative_devops.md)
 * [ Web Page Template Initiative](initiatives/initiative_basic_webpage_template.md)
 * [ Legal Initiative](initiatives/legal_initiative.md)
-
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
 
 ## Test plan
 ### Lighthouse
