@@ -130,13 +130,17 @@ your needs, it can be adjusted, given that we are still in the early stages of t
 
 At this juncture, the efficacy of the documentation is measured by how well it enables us to manage the project. We will
 review this effectiveness before the next iteration of the project.
-# Your  plan should replace the content below
 
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+
+[My Web Class Project Plan](documentation/theme_1/theme_project_setup.md)
 
 ## Release Schedule
 
 | Release Version | Release Date | Features |
 |-----------------|--------------|----------|
-| 0.1.x           | TBD          | TBD      |
+| 0.1.1          | 3/20/2023         | Legal Compliance |
+| 0.1.1          | 3/20/2023         | Dev-OP initial implementation |
+| 0.1.1          | 3/20/2023         | My Web Page V1 |
+| 0.1.1          | 3/20/2023         | Project Documentation |
+
 
